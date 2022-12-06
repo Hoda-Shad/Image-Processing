@@ -13,7 +13,7 @@
 ![](image/result3_2.jpg)
 
 ## 4- Convolution different Filters
-![](image/result4_1.jpg) ![](image/result4_2.jpg)
+![](image/result4_1.jpg) 
 ![](image/result4_2.jpg)
 ![](image/result4_3.jpg)
 ![](image/result4_4.jpg)
