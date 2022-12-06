@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-img = cv2.imread("flower_input.jpg",0)
+img = cv2.imread("image/flower_input.jpg",0)
 result = np.zeros(img.shape)
 rows,cols = img.shape
 mask = np.ones((21, 21)) / 400
@@ -13,4 +13,4 @@ for i in range (10,rows-10):
         else:
             result[i][j] = img[i][j]
 
-cv2.imwrite("flo_output_me.jpg", result)
+cv2.imwrite("image/flo_output_me.jpg", result)
