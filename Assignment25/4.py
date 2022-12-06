@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread("girl.png", 0)
+img = cv2.imread("image/girl.png", 0)
 result = np.zeros(img.shape)
 rows, cols = img.shape
 filter_size = int(input("Enter size of filter: "))
@@ -19,7 +19,7 @@ def filtering(k,img):
 
 
 result = filtering(filter_size, img)
-cv2.imwrite("res.jpg", result)
+cv2.imwrite("image/res.jpg", result)
 
 
 
