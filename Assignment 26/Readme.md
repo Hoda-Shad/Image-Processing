@@ -1,7 +1,7 @@
 ### Contrast
 
 ## 1- Adding Blur option 
-![](output/1.png)
+![1](https://user-images.githubusercontent.com/99975022/206917614-bfe5aadc-c04e-4fa6-a7fc-cddde96c6917.png)
 
 ## 2 - Increasing Contrast 25-5
 
