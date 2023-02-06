@@ -1,5 +1,5 @@
 ### 1- MNIST DATASET
-![](images/Screenshot 2023-02-06 111503.png)
+![](images/folders.png)
 
 ![](images/0.png)
 
