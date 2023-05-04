@@ -7,6 +7,8 @@ Detect and Crop Sudoku (four_point_transform library in python) in python and No
   
 ![](output/Screenshot_terminal.png)
 
+
+
 ![](input/sudoku1.jpg) | ![](output/result1.jpg)
 ![](input/sudoku2.jpg) | ![](output/result2.jpg)
 ![](input/sudoku3.png) | ![](output/result3.jpg) | ![](output/result.jpg)
